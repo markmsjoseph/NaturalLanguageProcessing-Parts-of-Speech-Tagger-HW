@@ -1,0 +1,8 @@
+
+Fot this homework, the program is contained in the file named hw4.py. The values of the files are hardcoded into the progam and it currently contains file WSJ_24.pos as
+the input file.
+
+The prior probability and transition probability work fine and can be tested against the test.pos file(which contain the exact example from the nlp slides with fish sleep).
+
+I was unable to fully implement the vertibi algorithm and have commented out the algorithm as it would cause the program to crash. Theoretically i know how the algorithm
+works but i was unable to properly implement it.
